@@ -58,7 +58,3 @@ python main.py
 ```
 
 A interface gráfica oferece acesso a todas as funcionalidades em abas separadas.
-
-## Autor
-
-Seu Nome - Ano
