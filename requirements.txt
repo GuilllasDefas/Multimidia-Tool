@@ -1,0 +1,11 @@
+moviepy>=1.0.3
+pydub>=0.25.1
+opencv-python>=4.7.0
+scenedetect>=0.6.1
+numpy>=1.22.0
+pillow>=9.0.0
+torch>=1.12.0
+basicsr>=1.4.2
+realesrgan>=0.3.0
+openai-whisper>=20230314
+tqdm>=4.64.0
